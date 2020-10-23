@@ -1,4 +1,4 @@
-# ROS packages forRobotics course
+# ROS packages for Robotics course
 
 ## Turtlesim move to goal
 <div>
