@@ -1,6 +1,6 @@
 # ROS packages for Aerial and Traditional Robotics
 
-## Turtlesim controls
+## Turtlesim move to goal
 <div>
 <img src="http://wiki.ros.org/turtlesim/Tutorials/Go%20to%20Goal?action=AttachFile&do=get&target=gotogoal.png" alt="go2goal" border="0" width="40%"  height="40%"/></div>
 
