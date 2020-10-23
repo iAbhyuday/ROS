@@ -2,7 +2,7 @@
 
 ## Turtlesim controls
 <div>
-<img src="http://wiki.ros.org/turtlesim/Tutorials/Go%20to%20Goal?action=AttachFile&do=get&target=gotogoal.png" alt="go2goal" border="0" width=50% /></div>
+<img src="http://wiki.ros.org/turtlesim/Tutorials/Go%20to%20Goal?action=AttachFile&do=get&target=gotogoal.png" alt="go2goal" border="0" width="40%"  height="40%"/></div>
 
 ## Quadcopter PID Hover control
 
