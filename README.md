@@ -14,5 +14,7 @@
 
 #### PID tuning for altitude control
 <a href="https://ibb.co/5BFhwY7"><img src="https://i.ibb.co/m685gvx/pid.png" alt="pid" border="0" width="40%"  height="40%"></a>
+<a href="https://ibb.co/5BFhwY7"><img src="https://i.ibb.co/Tkw9jW3/dr.gif" alt="pid" border="0" width="40%"  height="40%"></a>
+
 </div>
 </div>
