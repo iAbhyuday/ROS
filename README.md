@@ -2,7 +2,7 @@
 
 ## Turtlesim move to goal
 <div>
-<img src="https://i.ibb.co/vHnMJGx/ezgif-5-fc04ead67a86.gif" " alt="go2goal" border="0" width="40%"  height="40%"/></div>
+<img src="https://i.ibb.co/vHnMJGx/ezgif-5-fc04ead67a86.gif" " alt="go2goal" border="0" /></div>
 <div>
 <div style="width:50%">
   
